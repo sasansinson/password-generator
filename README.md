@@ -9,3 +9,4 @@ Here is a screenshot of the page:
 ![Password-generator Page.](./Assets/screenshot.png)
 
 you can access to the web page by following link:
+https://sasansinson.github.io/password-generator/
