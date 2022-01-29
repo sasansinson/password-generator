@@ -6,7 +6,7 @@ Each time you want to create a password,the system ask you about how many charac
 Then, system ask you whether you want uppercase or lowercase letters, numerics or special characters or not. System will make sure you have at least one character from criteria you interested in your password.
 
 Here is a screenshot of the page:
-![Password-generator Page.](./Assets/screenshot.png)
+![Password-generator Page.](./image/screenshot.png)
 
 you can access to the web page by following link:
 https://sasansinson.github.io/password-generator/
